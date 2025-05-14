@@ -1,3 +1,9 @@
+rtc-testbench (5.3-1) unstable; urgency=medium
+
+  * Bump to v5.3
+
+ -- Kurt Kanzenbach <kurt.kanzenbach@linutronix.de>  Wed, 14 May 2025 16:05:09 +0200
+
 rtc-testbench (5.2-1) unstable; urgency=medium
 
   * Bump to v5.2
